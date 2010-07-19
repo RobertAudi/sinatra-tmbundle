@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@@ ${1:page}
+$0</string>
+	<key>name</key>
+	<string>@@ page</string>
+	<key>scope</key>
+	<string>source.ruby.sinatra</string>
+	<key>tabTrigger</key>
+	<string>@</string>
+	<key>uuid</key>
+	<string>B74CA79B-B568-4B5D-8946-D07B3560063D</string>
+</dict>
+</plist>

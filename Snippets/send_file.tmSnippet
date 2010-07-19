@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>send_file '${1:path/to/file'}$0</string>
+	<key>name</key>
+	<string>send_file</string>
+	<key>scope</key>
+	<string>source.ruby.sinatra</string>
+	<key>tabTrigger</key>
+	<string>sf</string>
+	<key>uuid</key>
+	<string>7B2E24B7-4125-40BE-8968-6F10628EBC3C</string>
+</dict>
+</plist>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>require "rubygems"
+require "sinatra"
+
+get '${1:/}' do
+	${2:"Hello World!"}$0
+end</string>
+	<key>name</key>
+	<string>Create Sinatra App</string>
+	<key>scope</key>
+	<string>source.ruby.sinatra</string>
+	<key>tabTrigger</key>
+	<string>sin</string>
+	<key>uuid</key>
+	<string>B0134B8F-DFA6-423E-8191-A714FDBE937A</string>
+</dict>
+</plist>

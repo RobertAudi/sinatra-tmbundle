@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keyEquivalent</key>
+	<string>^~R</string>
+	<key>name</key>
+	<string>Sinatra</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>match</key>
+			<string>\b(get|post|put|delete|head|template|helpers|before|after|configure|not_found|error)\b</string>
+			<key>name</key>
+			<string>keyword.sinatra</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\b(set|enable|disable|haml|erb|erubis|builder|sass|less|params|session|redirect|send_file|halt|pass|mime_type)\b</string>
+			<key>name</key>
+			<string>support.function.sinatra</string>
+		</dict>
+		<dict>
+			<key>include</key>
+			<string>source.ruby</string>
+		</dict>
+	</array>
+	<key>scopeName</key>
+	<string>source.ruby.sinatra</string>
+	<key>uuid</key>
+	<string>377434FD-0FBB-4DA9-9D3B-CFD59CD0983F</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>configure ${2::${1:environment} }do
+	$0
+end</string>
+	<key>name</key>
+	<string>configure .. do .. end</string>
+	<key>scope</key>
+	<string>source.ruby.sinatra</string>
+	<key>tabTrigger</key>
+	<string>conf</string>
+	<key>uuid</key>
+	<string>2E298145-4F52-45AF-9E90-E38CDD9E115A</string>
+</dict>
+</plist>

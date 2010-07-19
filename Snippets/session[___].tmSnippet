@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>session[:${1:user}]$0</string>
+	<key>keyEquivalent</key>
+	<string>^j</string>
+	<key>name</key>
+	<string>session[...]</string>
+	<key>scope</key>
+	<string>source.ruby.sinatra</string>
+	<key>uuid</key>
+	<string>BC845028-86C3-4DE4-B22F-5D9902D06C10</string>
+</dict>
+</plist>
