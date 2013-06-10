@@ -15,5 +15,5 @@ To install via Git:
 
     mkdir -p ~/Library/Application\ Support/TextMate/Bundles
     cd ~/Library/Application\ Support/TextMate/Bundles
-    git clone git://github.com/blinklys/sinatra-tmbundle.git "Sinatra.tmbundle"
+    git clone git://github.com/AzizLight/sinatra-tmbundle.git "Sinatra.tmbundle"
     osascript -e 'tell app "TextMate" to reload bundles'
